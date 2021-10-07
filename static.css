@@ -54,7 +54,7 @@
   }
   
   #navbar ul li a{
-    color: white;
+    color: yellow;
     display: block;
     padding: 3px 22px;
     margin-top: -65px;
@@ -65,7 +65,7 @@
   
   #navbar ul li a:hover{
     color: black;
-    background-color: rgba(250, 52, 52);
+    background-color: rgb(250, 52, 52);
   }
   /*service section */
     
